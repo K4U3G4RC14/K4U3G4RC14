@@ -1,5 +1,5 @@
 ### Olá pesoal  :smiley:
-Eu me chamo Kauê tenho 17 anos sou um programador Front-end e atualmente estou estudando na Dev_Club e logo pretendo começar a trabalhar com programação.
+Eu me chamo Kauê tenho 17 anos sou um programador Full Stack e atualmente estou estudando na Dev_Club e logo pretendo começar a trabalhar com programação.
 
 <br>
 
